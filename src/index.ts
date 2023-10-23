@@ -1,7 +1,7 @@
 import express from 'express';
 import http from 'http';
 import cors from 'cors';
-import { testRouter } from './routes/auth.routes';
+import { testRouter } from './routes/test.routes';
 
 const app = express();
 
